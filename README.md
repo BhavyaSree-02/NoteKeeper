@@ -1,0 +1,1 @@
+Note Keeper is a Python-based desktop note management application built using Tkinter for the graphical interface and SQLite for local data storage. The application allows users to create, edit, save, delete, and securely hide notes using password protection.
